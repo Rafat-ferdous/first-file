@@ -1,5 +1,5 @@
 a = 5
 b = 6
-c= int(input("Enter The Third Numbeer : "))
+c= int(input("Enter The Third Number : "))
 d= a+b+c
 print("d")
